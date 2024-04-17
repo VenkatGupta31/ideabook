@@ -55,7 +55,7 @@ export default async function Header() {
       </NavbarBrand>
       <NavbarContent justify="center">
         <NavbarItem>
-          <Input />
+          <Input placeholder="Search topics you like" />
         </NavbarItem>
       </NavbarContent>
       <NavbarContent justify="end">
